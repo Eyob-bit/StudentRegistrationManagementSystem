@@ -1,0 +1,1 @@
+A simple console-based student registration management system implemented in C++ using Linked Lists. Manage student records dynamically by adding, deleting, and viewing students. More features and functions will be added in the future.
